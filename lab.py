@@ -14,5 +14,5 @@ print(Fore.BLUE + txt1)
 
 
 txt2 = decor("barcode")
-print(Fore.BLUE + txt2)
+print(Fore.YELLOW + txt2)
 
