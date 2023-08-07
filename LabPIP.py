@@ -10,7 +10,7 @@ print(textArt2)
 
 
 #bonus
-textArt3 =Fore.BLUE + text2art("LIVE YOUR LIVE", font="cybermedum")
+textArt3 =Fore.BLUE + text2art("LIVE YOUR LIFE", font="cybermedum")
 print(textArt3)
 textArt4 =Fore.GREEN + text2art("YOU CAN DO IT", font="rnd-xlarge")
 print(textArt4)
