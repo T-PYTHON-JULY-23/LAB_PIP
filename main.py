@@ -3,6 +3,7 @@ from art import *
 
 
 
-print(text2art("BELIEVE",font='block'))
-print(text2art("AND",font='block'))
-print(text2art("ACHEIVE",font='block'))
+print(text2art("BELIEVE",font='block',chr_ignore=True))
+print(text2art("AND",font='block',chr_ignore=True))
+print(text2art("ACHEIVE",font='block',chr_ignore=True))
+print(text2art("HELLO",font='sub-zero',))
